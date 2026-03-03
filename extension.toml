@@ -8,4 +8,4 @@ repository = "https://github.com/isabelgk/genexpr-zed"
 
 [grammars.genexpr]
 repository = "https://github.com/isabelgk/tree-sitter-genexpr"
-rev = "452ebd11039dff78d76a7fca7e046fbfb54a0246"
+rev = "17703728be0e51cce993a5e440bd7a3fa3d6e374"
