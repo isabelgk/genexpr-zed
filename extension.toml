@@ -2,7 +2,7 @@ id = "genexpr"
 name = "Genexpr"
 version = "0.1.0"
 schema_version = 1
-authors = ["Isabel Kasprsikie <mail@isabelgk.com>"]
+authors = ["Isabel Kaspriskie <mail@isabelgk.com>"]
 description = "Genexpr support"
 repository = "https://github.com/isabelgk/genexpr-zed"
 
