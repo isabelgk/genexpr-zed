@@ -1,0 +1,4 @@
+name = "Genexpr"
+grammar = "genexpr"
+path_suffixes = ["genexpr"]
+line_comments = ["// "]
